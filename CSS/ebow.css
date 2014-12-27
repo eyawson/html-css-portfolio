@@ -8,16 +8,16 @@
 }
 
 body {
-	width: 1024px;
+    width: 1024px;
 }
 
 * {
-	font-family: 'Kalimati, Verdana', sans-serif;
-	color: #666666;
+    font-family: 'Kalimati, Verdana', sans-serif;
+    color: #666666;
 }
 
 .h1 {
-	font-size: 48px;
+    font-size: 48px;
     line-height: 100px;
     margin-top: 22px;
     margin-bottom: 0;
@@ -34,17 +34,17 @@ h2 {
 }
 
 li {
-	font-size: 16px;
-	line-height: 32px;
+    font-size: 16px;
+    line-height: 32px;
 }
 
 .box {
-	outline: solid 1px #cccccc;
-	margin: 31px 1px 26px 1px;
-	padding: 30px 0 30px 30px;
+    outline: solid 1px #cccccc;
+    margin: 31px 1px 26px 1px;
+    padding: 30px 0 30px 30px;
 }
 
 p {
-	font-size: 16px;
+    font-size: 16px;
     line-height: 32px;
 }
